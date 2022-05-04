@@ -1,0 +1,21 @@
+.container{
+    box-shadow: 1px 2px 500px rgba(0, 0, 0, 0.192);
+    background-color: rgb(255, 255, 255);
+}
+
+.dropdown-toggle{
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+
+.dropdown-toggle:focus{
+    outline: none;
+}
+
+.baitap{
+    display: none;
+}
+
+#doiChoContent{
+    display: none;
+}
